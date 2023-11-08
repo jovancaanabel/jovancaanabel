@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jovancaanabel
-- 👀 I’m interested in Data Analytics & Business Intelligence
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Analytics & Business Intelligence
+- 💞️ I’m looking to collaborate on Data Science 
 - 📫 How to reach me jovanca_anabel@yahoo.com
 
 <!---
